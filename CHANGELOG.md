@@ -4,6 +4,18 @@
 
 [1]: https://www.npmjs.com/package/@zapper-fi/studio?activeTab=versions
 
+## [0.33.0](https://github.com/Zapper-fi/studio/compare/v0.32.0...v0.33.0) (2022-05-19)
+
+
+### Features
+
+* porting b-protocol and compound to studio ([#449](https://github.com/Zapper-fi/studio/issues/449)) ([6d9d157](https://github.com/Zapper-fi/studio/commit/6d9d1578174b8ee15559399354a3902d7cc3e7d3))
+
+
+### Bug Fixes
+
+* **qi-dao:** Remove duplicate Yield ([#467](https://github.com/Zapper-fi/studio/issues/467)) ([84ccf18](https://github.com/Zapper-fi/studio/commit/84ccf183548390d6557810b7e5d908048728a2cb))
+
 ## [0.32.0](https://github.com/Zapper-fi/studio/compare/v0.31.0...v0.32.0) (2022-05-19)
 
 
